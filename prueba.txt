@@ -1,5 +1,5 @@
-Hola, Soy Alexis Calixto
+Hola, Soy Alexis Calixto.
 
-Tengo 20 años, vivo en venezuela
+Tengo 22 años, Soy de Venezuela
 
-Hoy estoy probando gib 
+Hoy estoy probando Git!
